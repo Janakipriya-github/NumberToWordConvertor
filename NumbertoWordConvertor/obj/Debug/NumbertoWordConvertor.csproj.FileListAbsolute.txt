@@ -1,0 +1,6 @@
+E:\Janaki\NumbertoWordConvertor\NumbertoWordConvertor\bin\Debug\NumbertoWordConvertor.exe.config
+E:\Janaki\NumbertoWordConvertor\NumbertoWordConvertor\bin\Debug\NumbertoWordConvertor.exe
+E:\Janaki\NumbertoWordConvertor\NumbertoWordConvertor\bin\Debug\NumbertoWordConvertor.pdb
+E:\Janaki\NumbertoWordConvertor\NumbertoWordConvertor\obj\Debug\NumbertoWordConvertor.csprojResolveAssemblyReference.cache
+E:\Janaki\NumbertoWordConvertor\NumbertoWordConvertor\obj\Debug\NumbertoWordConvertor.exe
+E:\Janaki\NumbertoWordConvertor\NumbertoWordConvertor\obj\Debug\NumbertoWordConvertor.pdb
